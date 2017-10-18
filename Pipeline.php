@@ -1,10 +1,10 @@
 <?php
 
-namespace PP\Component\Pipeline;
+namespace Printplanet\Component\Pipeline;
 
 use Closure;
 use RuntimeException;
-use PP\Component\Container\Container;
+use Printplanet\Component\Container\Container;
 
 class Pipeline
 {
